@@ -1,0 +1,18 @@
+PATH
+  remote: pizza_factory
+  specs:
+    pizza_factory (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  arm64-darwin-22
+  x86_64-linux
+
+DEPENDENCIES
+  pizza_factory!
+
+BUNDLED WITH
+   2.4.10
